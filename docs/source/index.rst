@@ -12,8 +12,10 @@ Contents
 --------
 
 .. toctree::
-   getting_started/index
-   hardware/index
-   install/index
-   software/index
-   technical/index
+    getting_started/index
+    admin/index
+    installing/index
+    modules/index
+    rachel-plus/index
+    uploading/index
+    wireless/index
