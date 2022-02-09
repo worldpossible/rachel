@@ -1,4 +1,4 @@
-.. _en_file_share:
+.. _en_fileshare:
 
 Uploading and Sharing Files
 ###########################

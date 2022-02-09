@@ -6,4 +6,4 @@ Modules
 .. toctree::
   :maxdepth: 1
 
-  en_file_share
+  en_fileshare
