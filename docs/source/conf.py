@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'RACHEL'
+copyright = '2021, World Possible'
+author = 'World Possible '
 
 release = '0.1'
 version = '0.1.0'
@@ -30,6 +30,13 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+
+html_static_path = ['_static']
+html_logo = "logo.png"
+html_theme_options = {
+    'logo_only': False,
+    'display_version': True,
+}
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'

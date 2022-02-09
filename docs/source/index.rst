@@ -1,22 +1,19 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to the RACHEL documentation!
+====================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+RACHEL is the easiest way to download and deploy free content repackaged for offline users. Content is specifically curated to serve the needs of offline populations in developing countries. Paired with a RACHEL-Plus device, RACHEL is the perfect way to connect learners with the information they need. To learn more about go to  https://www.worldpossible.org/
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   
 
 Contents
 --------
 
 .. toctree::
-
-   usage
-   api
+   getting_started/index
+   hardware/index
+   install/index
+   software/index
+   technical/index
