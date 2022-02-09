@@ -1,5 +1,7 @@
+.. _en-file_share:
+
 Uploading and Sharing Files
-===========================
+#################
 
 This tutorial will guide you through uploading and sharing files using the en-file_share module
 
