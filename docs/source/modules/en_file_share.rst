@@ -1,7 +1,7 @@
 .. _en_file_share:
 
 Uploading and Sharing Files
-#################
+###########################
 
 This tutorial will guide you through uploading and sharing files using the en-file_share module
 
@@ -38,7 +38,7 @@ Uploading Files
 
 1. Click “Upload files” 
 
-.. image:: ../_resources/fs_04_2_tutorial.png
+.. image:: ../_resources/fs_04_2_tutorial.jpg
 
 2. On this screen you can drag and drop a file or click “Browse Files” to upload
 
