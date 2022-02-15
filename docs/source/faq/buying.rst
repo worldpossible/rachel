@@ -14,9 +14,9 @@ Do you ship to my location?
 
 World Possible ships anywhere in the world that are serviced by DHL or UPS. To get an accurate shipping quote, please add items to your cart and proceed to checkout. A shipping quote can only be given this way, once you have entered your address and selected your shipper.
 
-Please note:
 
-In addition to shipping time, units take 7-10 days to be configured and to leave our warehouse.
+.. note::
+    In addition to shipping time, units take 7-10 days to be configured and to leave our warehouse.
 
 In addition to shipping cost, nearly every country charges some sort of taxes, fees, or tariffs on imported goods. The HS Tariff Code for our devices is 8517.62.0020. With this quote, you can get an estimate of import costs by reaching out to your local DHL or UPS office in the country. There is no way for World Possible to provide this information in advance. Costs can range from 15% - 40% of the purchase price of your goods.
 
