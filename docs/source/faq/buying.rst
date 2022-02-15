@@ -28,7 +28,7 @@ World Possible is a nonprofit organization supported by donors to make this prod
 
 We understand that many of our customers are also non-profits with small budgets so we work exceptionally hard to make sure this product is as affordable as possible.
 
-We know that RACHEL may still be unaffordable for some organizations. We offer much of our content for free download at http://oer2go.org -- some content providers only allow us to provide their content directly on a RACHEL-Plus device.
+We know that RACHEL may still be unaffordable for some organizations. We offer much of our content for free download at https://rachel.worldpossible.org -- some content providers only allow us to provide their content directly on a RACHEL-Plus device.
 
 You can also get free assistance to create your own offline content servers on old laptops or other hardware at http://community.rachelfriends.org
 
