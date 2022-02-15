@@ -18,7 +18,7 @@ Contents
     /getting_started/index
     /admin/index
     /installing/index
-    /modules/index
+    /uploading/index
     /rachel-plus/index
     /uploading/index
     /wireless/index

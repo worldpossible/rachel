@@ -1,7 +1,7 @@
-.. _deployments:
+.. _countries:
 
-Deployments
-===========
+Countries
+=========
 
 What Countries have RACHEL deployments?
 ---------------------------------------

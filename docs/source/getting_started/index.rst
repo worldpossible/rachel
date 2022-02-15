@@ -6,4 +6,6 @@ Getting Started
 .. toctree::
   :maxdepth: 1
 
-  rachel_devices
+  rachel_overview
+  installing_content
+  

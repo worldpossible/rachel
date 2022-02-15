@@ -4,4 +4,4 @@ Frequently Asked Questions
 .. toctree::
     /faq/buying.rst
     /faq/content.rst
-    /faq/deployments.rst
+    /faq/countries.rst
