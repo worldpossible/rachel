@@ -14,9 +14,7 @@ Contents
 --------
 
 .. toctree::
-    /faq/buying.rst
-    /faq/content.rst
-    /faq/deployments.rst
+    /faq/index
     /getting_started/index
     /admin/index
     /installing/index
