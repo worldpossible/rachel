@@ -6,6 +6,10 @@ RACHEL is the easiest way to download and deploy free content repackaged for off
 .. image:: logo_box.png
   :align: center
 
+.. raw:: html
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/_Xa2zvBYOX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 .. note::
 
    Please note that the instructions in this documentation are intended for the RACHEL-Plus 3.0 and 4.0 devices
