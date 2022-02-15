@@ -12,6 +12,7 @@ Contents
 --------
 
 .. toctree::
+    faq/index
     getting_started/index
     admin/index
     installing/index
