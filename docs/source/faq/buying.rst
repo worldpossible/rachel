@@ -6,7 +6,7 @@ Buying a RACHEL-Plus
 Where can I buy a RACHEL-Plus?
 ------------------------------
 
-The RACHEL-Plus device can be bought on our website at https://worldpossible.org/products/rachel-plus
+The RACHEL-Plus device can be bought through the store on our website at https://worldpossible.org/products/rachel-plus
 
 
 Do you ship to my location?
