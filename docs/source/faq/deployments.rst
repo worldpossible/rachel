@@ -1,7 +1,7 @@
 .. _deployments:
 
-Frequently Asked Questions
-==========================
+Deployments
+===========
 
 What Countries have RACHEL deployments?
 ---------------------------------------

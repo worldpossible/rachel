@@ -1,6 +1,6 @@
 .. _content:
 
-Frequently Asked Questions
+Available Content
 ==========================
 
 What Languages are Available?

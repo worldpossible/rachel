@@ -1,7 +1,7 @@
 .. _buying:
 
-Frequently Asked Questions
-==========================
+Buying a RACHEL-Plus
+====================
 
 Where can I buy a RACHEL-Plus?
 ------------------------------

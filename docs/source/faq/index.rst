@@ -1,5 +1,5 @@
-Contents
---------
+Frequently Asked Questions
+--------------------------
 
 .. toctree::
     /faq/buying.rst
