@@ -6,6 +6,7 @@ Getting Started
 .. toctree::
   :maxdepth: 1
 
-  rachel_overview
-  installing_content
-  
+  overview
+  admin
+  kiwix
+  lms
