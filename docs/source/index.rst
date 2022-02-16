@@ -1,28 +1,15 @@
 RACHEL User Guide
 =================
 
-RACHEL is the easiest way to download and deploy free content repackaged for offline users. Content is specifically curated to serve the needs of offline populations in developing countries. Paired with a RACHEL-Plus device, RACHEL is the perfect way to connect learners with the information they need. To learn more about RACHEL go to  https://www.worldpossible.org/
+RACHEL (Remote Area Community Hotspot for Education and Learning) is a portable, battery-powered, device that contains copies of educational websites in offline format. This means RACHEL can go anywhere in the world and wirelessly deliver free digital educational content to nearby tablets, laptops, or smartphones with no internet or data plans required. RACHEL has been taken to over 53 countries since its creation, serving students in rural villages, townships, and even prisons.
+
+Content on RACHEL is specifically curated to serve the needs of offline populations in developing countries. RACHEL is the perfect way to connect learners with the information they need. To learn more about RACHEL go to https://www.worldpossible.org/
 
 .. image:: logo_box.png
   :align: center
 
-.. raw:: html
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/_Xa2zvBYOX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+:doc:`Getting Started </get_started/index>`
+******************************************
 
 
-.. note::
-
-   Please note that the instructions in this documentation are intended for the RACHEL-Plus 3.0 and 4.0 devices
-
-Contents
---------
-
-.. toctree::
-    /faq/index
-    /getting_started/index
-    /admin/index
-    /installing/index
-    /uploading/index
-    /rachel-plus/index
-    /uploading/index
-    /wireless/index
