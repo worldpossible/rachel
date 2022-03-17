@@ -13,3 +13,5 @@ Content on RACHEL is specifically curated to serve the needs of offline populati
 ***********************************************
 
 
+:doc:`Uploading </uploading/index>`
+***********************************
