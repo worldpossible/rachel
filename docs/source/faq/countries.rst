@@ -17,9 +17,13 @@ World Possible recently developed and is piloting a tool called DataPost, which 
 Some RACHEL deployment partners have distributed over 150 RACHEL devices to schools or other locations. Individuals who have done so, are invited to apply to become a World Possible chapter.  You can reach our existing chapters here:
 
 Guatemala - romeo@worldpossible.org
+
 Ghana - mustapha@worldpossible.org
+
 Sierra Leone - samuel@worldpossible.org
+
 Tanzania - jackline@worldpossible.org
+
 Kenya - bonface@worldpossible.org
 
 The following countries have received RACHEL devices from us. Again, we do not know the state of the RACHEL device, if it was ever actually deployed, or in what context.
