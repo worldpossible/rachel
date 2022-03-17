@@ -9,7 +9,7 @@ Content on RACHEL is specifically curated to serve the needs of offline populati
   :align: center
 
 
-:doc:`Getting Started </get_started/index>`
-******************************************
+:doc:`Getting Started </getting_started/index>`
+***********************************************
 
 
