@@ -27,66 +27,67 @@ Tanzania - jackline@worldpossible.org
 Kenya - bonface@worldpossible.org
 
 The following countries have received RACHEL devices from us. Again, we do not know the state of the RACHEL device, if it was ever actually deployed, or in what context.
-- Australia
-- Autonomous Region of Bougainville
-- Bahamas
-- Belize
-- Brazil
-- Burkina Faso
-- Cambodia
-- Canada
-- Colombia
-- Cote D'Ivoire
-- Democratic Republic of Congo
-- Dominican Republic
-- Ecuador
-- Eritrea
-- Eswatini
-- Ethiopia
-- Fiji
-- Finland
-- Ghana
-- Guatemala
-- Haiti
-- Honduras
-- India
-- Kenya
-- Kiribati
-- Laos
-- Lesotho
-- Liberia
-- Malawi
-- Malaysia
-- Mexico
-- Micronesia
-- Morocco
-- Myanmar
-- Namibia
-- Nigeria
-- Pakistan
-- Papua New Guinea
-- Peru
-- Philippines
-- Rwanda
-- Samoa
-- Senegal
-- Sierra Leone
-- South Africa
-- South Korea
-- South Sudan
-- Sri Lanka
-- Swaziland
-- Tajikstan
-- Tanzania
-- Thailand
-- Togo
-- Tonga
-- Tuvalu
-- Uganda
-- United States
-- Vanuatu
-- Zambia
-- Zimbabwe
+
+* Australia
+* Autonomous Region of Bougainville
+* Bahamas
+* Belize
+* Brazil
+* Burkina Faso
+* Cambodia
+* Canada
+* Colombia
+* Cote D'Ivoire
+* Democratic Republic of Congo
+* Dominican Republic
+* Ecuador
+* Eritrea
+* Eswatini
+* Ethiopia
+* Fiji
+* Finland
+* Ghana
+* Guatemala
+* Haiti
+* Honduras
+* India
+* Kenya
+* Kiribati
+* Laos
+* Lesotho
+* Liberia
+* Malawi
+* Malaysia
+* Mexico
+* Micronesia
+* Morocco
+* Myanmar
+* Namibia
+* Nigeria
+* Pakistan
+* Papua New Guinea
+* Peru
+* Philippines
+* Rwanda
+* Samoa
+* Senegal
+* Sierra Leone
+* South Africa
+* South Korea
+* South Sudan
+* Sri Lanka
+* Swaziland
+* Tajikstan
+* Tanzania
+* Thailand
+* Togo
+* Tonga
+* Tuvalu
+* Uganda
+* United States
+* Vanuatu
+* Zambia
+* Zimbabwe
 
 
 
