@@ -19,17 +19,17 @@ To use DataPost, follow these steps:
 
 1.	Connect your android phone to the RACHEL Wi-Fi Signal
 
-.. image:: ../_resources/dp_ud_01_rachelWifi.jpg
+.. image:: ../../_resources/dp_ud_01_rachelWifi.jpg
     :width: 50%
 
 2.	Open the DataPost app on your android phone and press “Sync with RACHEL”
 
-.. image:: ../_resources/dp_ud_02_syncToRachel.jpg
+.. image:: ../../_resources/dp_ud_02_syncToRachel.jpg
     :width: 50%
 
 3.	Return with your android phone to a place with internet or data connectivity, open the DataPost app and click Sync with Internet
 
-.. image:: ../_resources/dp_ud_03_syncToInternet.jpg
+.. image:: ../../_resources/dp_ud_03_syncToInternet.jpg
     :width: 50%
 
 .. note::
@@ -37,7 +37,7 @@ To use DataPost, follow these steps:
     
 4.	While your android phone is connected to the internet, if you have access to any RACHEL devices that have data needs, they will appear in a list
 
-.. image:: ../_resources/dp_ud_04_dataBundles.jpg
+.. image:: ../../_resources/dp_ud_04_dataBundles.jpg
     :width: 50%
 
 5.	You can now deliver these mail bundles back to the original RACHEL-Plus device!
@@ -51,8 +51,8 @@ DataPost will also upload usage data from your RACHEL device to a website where 
 
 https://datapost.site:4001/map.html
 
-.. image:: ../_resources/dp_ud_05_datapostMap.jpg
+.. image:: ../../_resources/dp_ud_05_datapostMap.jpg
  
 http://datapost.site:3010/single?subdomain=c9895f
  
-.. image:: ../_resources/dp_ud_06_datapostStatistics.jpg
+.. image:: ../../_resources/dp_ud_06_datapostStatistics.jpg

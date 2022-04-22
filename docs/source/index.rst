@@ -13,6 +13,6 @@ Content on RACHEL is specifically curated to serve the needs of offline populati
 
    getting_started/index
    faq/index
-   uploading/index
-   datapost/index
+   hardware/index
+   software/index
    coach/index
