@@ -18,6 +18,7 @@ To use RACHEL Webmail, follow these steps:
 1. Connect to the RACHEL Device's Wi-Fi Network
 
 .. image:: ../_resources/dp_wm_01_rachel-wifi.jpg
+    :width: 50%
 
 2. Open a Web browser and navigate to RACHEL (192.168.88.1)
 
@@ -30,6 +31,7 @@ To use RACHEL Webmail, follow these steps:
 4. At the login prompt enter the username/password as user1/password and press "login"
 
 .. image:: ../_resources/dp_wm_04_webmailLogin.jpg
+    :width: 50%
 
 .. note::
     RACHEL is preloaded with 25 email accounts (user1, user2, ..., user25) all with the password of "password"
