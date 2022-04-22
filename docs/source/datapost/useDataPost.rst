@@ -51,4 +51,4 @@ https://datapost.site:4001/map.html
  
 http://datapost.site:3010/single?subdomain=c9895f
  
-.. image:: ../_resources/dp_ud_06_dataPostStatistics.jpg
+.. image:: ../_resources/dp_ud_06_datapostStatistics.jpg
