@@ -54,6 +54,6 @@ To use RACHEL Webmail, follow these steps:
 
 11. Write your message in the message box
 
-.. image:: ../_resourcesdp_wm_09_emailMessage.jpg
+.. image:: ../_resources/dp_wm_09_emailMessage.jpg
 
 12. When all the info is corrent and the message is ready to send, press the Send button and you're done!
