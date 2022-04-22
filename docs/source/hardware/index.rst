@@ -1,7 +1,7 @@
 .. _index:
 
-Hardware Tutorials
-==================
+Hardware
+========
 
 These guides will help teach you various uses and practices of the RACHEL-Plus Device.
 
