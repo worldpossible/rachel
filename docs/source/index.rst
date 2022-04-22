@@ -8,15 +8,11 @@ Content on RACHEL is specifically curated to serve the needs of offline populati
 .. image:: logo_box.png
   :align: center
 
+.. toctree::
+   :hidden:
 
-:doc:`Getting Started </getting_started/index>`
-***********************************************
-
-:doc:`DataPost </datapost/index>`
-*********************************
-
-:doc:`Uploading </uploading/index>`
-***********************************
-
-:doc:`Frequently Asked Questions </faq/index>`
-**********************************************
+   getting_started/index
+   faq/index
+   uploading/index
+   datapost/index
+   coach/index

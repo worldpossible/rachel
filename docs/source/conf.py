@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'RACHEL'
-copyright = '2021, World Possible'
+copyright = '2022, World Possible'
 author = 'World Possible '
 
 release = '0.1'
