@@ -12,6 +12,8 @@ Content on RACHEL is specifically curated to serve the needs of offline populati
 :doc:`Getting Started </getting_started/index>`
 ***********************************************
 
+:doc:`DataPost </datapost/index>`
+*********************************
 
 :doc:`Uploading </uploading/index>`
 ***********************************
