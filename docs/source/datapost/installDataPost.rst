@@ -12,6 +12,7 @@ To accomplish this task, you will need:
 
 * RACHEL-Plus Device (RACHEL OS Version 3.1.1 or Higher) with DataPost sticker
 OR
+
 * Access to the Internet
 * Android Device (Android 9.x or newer)
 
