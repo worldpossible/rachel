@@ -1,6 +1,6 @@
 .. _index:
 
-Power Management
+Basic Operations
 ================
 
 These guides will help teach you how to properly manage the power of your RACHEL-Plus Device.

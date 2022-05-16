@@ -7,6 +7,6 @@ Getting Started
   :maxdepth: 1
 
   overview
-  admin
+  modules
   kiwix
   lms

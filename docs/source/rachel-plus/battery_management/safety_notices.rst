@@ -1,0 +1,2 @@
+.. _safety_notices:
+

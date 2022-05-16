@@ -1,0 +1,2 @@
+.. _connect_lan:
+

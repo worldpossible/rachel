@@ -8,12 +8,9 @@ This tutorial will guide you through uploading and sharing files using the en-fi
 Installing en-file_share
 ========================
 
-
 1. Click the “admin” button on the main page of RACHEL
 
-
 .. image:: ../../_resources/fs_01_tutorial.png
-
 
 2. The default username/password is admin/Rachel+1
 
@@ -25,16 +22,13 @@ Installing en-file_share
 
 .. image:: ../../_resources/fs_03_tutorial.png
 
-
 5. Refresh the main page of RACHEL and you should now see the file share module
 
 .. image:: ../../_resources/fs_04_tutorial.png
 
 
-
 Uploading Files
 ===============
-
 
 1. Click “Upload files” 
 
@@ -65,6 +59,5 @@ Uploading Files
 6. Click the “hide” checkbox on the right hand side for en-file_share, then click “Save Changes”
 
 .. image:: ../../_resources/fs_10_tutorial.png
-
 
 7. The module will now be hidden on the main page of RACHEL. To show it again, uncheck the hide button and click Save Changes again

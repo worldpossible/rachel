@@ -16,6 +16,4 @@ Contents
     hardware
     version
     install
-    stats
     settings
-    logout

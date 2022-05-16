@@ -1,3 +1,5 @@
+.. _index:
+
 RACHEL User Guide
 =================
 
@@ -13,6 +15,6 @@ Content on RACHEL is specifically curated to serve the needs of offline populati
 
    getting_started/index
    faq/index
-   hardware/index
+   rachel-plus/index
    software/index
    coach/index
