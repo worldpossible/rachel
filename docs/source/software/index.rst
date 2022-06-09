@@ -14,3 +14,4 @@ Contents
     admin_duties/index
     datapost/index
     uploading/index
+	turnitin/index
