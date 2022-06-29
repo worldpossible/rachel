@@ -1,7 +1,7 @@
 .. _safety_notices:
 
-Managing RACHEL Hardware
-========================
+RACHEL Safety Notices
+=====================
 
 These are important safety notices that you should know before and while using the RACHEL Device
 
