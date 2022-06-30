@@ -5,8 +5,8 @@ Managing RACHEL Hardware
 
 This guide will show you how to use the admin hardware tools for RACHEL
 
-prerequisites
 *************
+prerequisites
 
 To accomplish this task, you will need:
 
