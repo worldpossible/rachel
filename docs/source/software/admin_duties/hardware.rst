@@ -19,6 +19,7 @@ To use RACHEL Server Hardware tools, follow these steps:
 1. Access the RACHEL Admin Panel to view all the Admin Duty Tabs, Make sure the "Hardware" tab is selected
 
 .. image:: ../../_resources/ad_mh_01_hardware_tab.jpg
+    :width: 50%
 
 2. Storage Usage data is displayed at the top of the Hardware Tab
 
